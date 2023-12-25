@@ -1,7 +1,5 @@
 # Argent Accounts on Starknet
-
 ## Specification
-
 See [Argent Account](contracts/account/README.md) and [Argent Multisig](contracts/multisig/README.md) for more details.
 
 ## Development
